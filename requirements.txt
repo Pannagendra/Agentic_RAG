@@ -1,0 +1,8 @@
+langchain
+langgraph
+faiss-cpu
+evidently
+pydantic
+typer
+langchain-community
+langchain_ollama
