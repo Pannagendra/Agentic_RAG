@@ -6,3 +6,5 @@ pydantic
 typer
 langchain-community
 langchain_ollama
+numpy<2.0
+evidently==0.3.2
