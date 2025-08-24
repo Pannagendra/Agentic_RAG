@@ -190,4 +190,11 @@ MIT License — see the [LICENSE](LICENSE) file.
 
 ---
 
-**Made with :heart: for the RAG and agentic AI community.**
+**Built with ❤️ for the AI community**
+
+⭐ **Star this repo if it helped you build better RAG systems!**
+
+---
+## 📬 Contact
+
+Made with ❤️ by [Pannagendra KL](https://github.com/Pannagendra)
