@@ -1,8 +1,4 @@
-=========================================================
-AGENTIC_RAG — 3 small edits (your existing README is good)
-=========================================================
 
---- EDIT 1: add this banner right UNDER the title line
     "# Agentic RAG: RAG + LangGraph + ..." ---
 
 > **Why this repo:** a reference implementation of agentic RAG — retrieval,
@@ -12,7 +8,6 @@ AGENTIC_RAG — 3 small edits (your existing README is good)
 > a first-class concern rather than an afterthought.
 
 
---- EDIT 2: add this NEW section just ABOVE "## Architecture (Diagram)" ---
 
 ## 🏢 Where This Pattern Goes in Production
 
@@ -30,9 +25,6 @@ and audits. Typical production wiring:
 
 LangSmith tracing and EvidentlyAI drift monitoring in this repo are the
 local stand-ins for that enterprise observability layer.
-
-
---- EDIT 3: paste this at the very BOTTOM of the README ---
 
 ---
 
